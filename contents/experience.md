@@ -1,5 +1,5 @@
 ### **Algorithm Intern**  
-**October 2023 – present | Memtensor(shanghai), Inc**  
+**October 2024 – present | Memtensor(shanghai), Inc**  
 #### Key Contributions:  
 ---
 
