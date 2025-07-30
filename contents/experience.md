@@ -1,5 +1,5 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Algorithm Intern**  
+**October 2023 – present | Memtensor(shanghai)**  
 
 ---
 
