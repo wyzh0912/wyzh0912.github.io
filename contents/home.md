@@ -1,4 +1,4 @@
-[![wyzh0912](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/wyzh0912)
+[![wyzh0912](https://img.shields.io/badge/wyzh0912-github-blue?logo=github)](https://github.com/wyzh0912)
 
 I'm currently pursuing a Master's degree in Software Engineering at the Department of Software College, Northeastern University, shenyang, China.
 
