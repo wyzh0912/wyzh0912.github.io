@@ -1,6 +1,6 @@
 [![wyzh0912](https://img.shields.io/badge/wyzh0912-github-blue?logo=github)](https://github.com/wyzh0912)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=YOUR_USER_ID](https://scholar.google.com/citations?hl=zh-CN&user=EzKQkhwAAAAJ))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EzKQkhwAAAAJ&hl=en)
 
 I'm currently pursuing a Master's degree in Software Engineering at the Department of Software College, Northeastern University, shenyang, China.
 
