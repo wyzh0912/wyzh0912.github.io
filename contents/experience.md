@@ -1,5 +1,5 @@
 ### **Algorithm Intern**  
-**October 2023 – October 2025 | Memtensor(shanghai)**  
+**October 2023 – October 2025 | Memtensor(Shanghai)**  
 
 ---
 
