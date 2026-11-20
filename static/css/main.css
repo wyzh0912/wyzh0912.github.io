@@ -60,7 +60,7 @@ section .main-body{
 }
 
 .bg-gradient-primary-to-secondary-gray {
-    background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
+    background: #f5f6f8 !important;
 }
 
 
@@ -110,3 +110,32 @@ section .main-body{
 }
 
 
+
+/* Academic homepage section rhythm: spacious without excess empty space. */
+#home,
+#publications,
+#experience {
+    padding-top: 4.25rem;
+    padding-bottom: 4.25rem;
+}
+
+/* Awards currently contains a short list; keep the closing section compact. */
+#awards {
+    padding-top: 3.25rem;
+    padding-bottom: 3.25rem;
+}
+
+/* Make the four content sections feel consistent at mobile widths. */
+@media (max-width: 767.98px) {
+    #home,
+    #publications,
+    #experience {
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+
+    #awards {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+}
